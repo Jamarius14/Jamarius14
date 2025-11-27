@@ -1,4 +1,9 @@
 ## Hi there 👋
+## My name is Jamarius Citron
+## I am currently a student at Western Governor's University
+## I am majoring in Software Engineering with a foucus in devops
+## I am confident in HTML, CSS, Javascript, and Python
+
 
 <!--
 **Jamarius14/Jamarius14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
